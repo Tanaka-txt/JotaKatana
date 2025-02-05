@@ -24,7 +24,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,git,github,pycharm,kali,linux,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,dotnet,git,github,pycharm,kali,linux,idea&perline=3)](https://skillicons.dev)
  
 ### Other Knowledge:
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,ps,html,css)](https://skillicons.dev)
