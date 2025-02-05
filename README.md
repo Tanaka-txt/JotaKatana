@@ -13,7 +13,7 @@
 
 #
 
-<div align="center">
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JotaKatana/JotaKatana/output/github-contribution-grid-snake-dark.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JotaKatana/JotaKatana/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
+
  
 ### 🤖 Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
@@ -34,11 +34,6 @@
   
 ### Studying in this moment:
 [![My Skills](https://skillicons.dev/icons?i=java,cs,python)](https://skillicons.dev)
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{JotaKatana}/count.svg" /></p> 
-<br></div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=521a7d&height=120&section=footer"/>
