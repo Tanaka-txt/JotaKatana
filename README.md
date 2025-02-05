@@ -2,11 +2,11 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=521a7d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jota+Katana;I+Study+Systems+Information+at+University+Of+São+Paulo;Be+Welcome!+🤖)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=521a7d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jota+Katana;I+Study+Information+Systems+at+University+Of+São+Paulo;Be+Welcome!+🤖)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JotaKatana&show_icons=true&count_private=true&hide_border=true&title_color=521a7d&icon_color=521a7d&text_color=521a7d&bg_color=0d1117" alt="JotaKatana github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaKatana&layout=compact&hide_border=true&title_color=521a7d&text_color=521a7d&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaKatana&layout=compact&hide_border=true&title_color=521a7d&text_color=521a7d&bg_color=0d1117"/>
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JotaKatana&bg_color=0d1117&color=521a7d&line=6c1d96&point=8f09d6&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
